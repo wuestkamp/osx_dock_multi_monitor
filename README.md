@@ -6,7 +6,7 @@ Dock will be moved to left side, else to right side. Best works if Dock is auto 
 
 This tool uses http://www.hamsoftengineering.com/codeSharing/MouseTools/MouseTools.html
 
-Whenever the mouse is <300 pixels from the left screen we move the Dock to the left, else to the right.
+Whenever the mouse x position is <800 pixels we move the Dock to the left, else to the right.
 
 Install
 -------
