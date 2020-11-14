@@ -13,6 +13,7 @@ Install
 Clone this repo in some location. Then
 
 `cp script.scpt.env script.scpt` and adjust path in it.
+Also adjust the resolution depending on your desktop.
 
 `cp osx_dock_multi_monitor.plist.env osx_dock_multi_monitor.plist` and adjust path in it
 
